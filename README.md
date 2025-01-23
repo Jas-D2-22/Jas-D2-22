@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Jas-D2-22
 - 👀 I’m interested in History, Outdoors, my family, how certain things work, building things and seeing them work, I like adventure and seeing new palces.
-- 🌱 I’m currently learning Java Code, Git and soon many more versions of Coding, at the Southwestern Tech in the Software Development course.  So that I can better provid for my family and coding with Java, Python, C++, C, along aith learning AI are the furture.
+- 🌱 I’m currently learning Java Code, Git and soon many more versions of Coding, at the Southwestern Tech in the Software Development course.  So that I may better provid for my family and coding with Java, Python, C++, C, along aith learning AI are the furture.
 - 💞️ I’m looking to collaborate on all types of projects and seeing how they work and being part of the process.
 - 📫 How to reach me you can reach me at "seatlerm28@yahoo.com" or "wilmer.jas1140@stu.stech.edu".
 - 😄 Pronouns: My pronouns are he/him.
